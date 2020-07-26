@@ -15,13 +15,8 @@ class App extends Component {
     };
 
     updateMessageListing = (message) => {
-        console.log(message);
-        console.log(this.state.messages);
-
         let update_messages_list = this.state.messages
         update_messages_list.push(message)
-
-        console.log(update_messages_list);
 
         this.setState({
             messages: update_messages_list,
