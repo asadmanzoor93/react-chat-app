@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.5.0",
-    "css-select": "^5.1.0",
+    "css-select": "^2.1.0",
     "nth-check": "^1.0.2",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
